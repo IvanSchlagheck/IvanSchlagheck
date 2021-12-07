@@ -1,5 +1,5 @@
-#Hi CyberSouls 👋🎇
-##I'm Ivan Schlagheck, Fullstack Developer and Musician 🎻 :)
+# Hi CyberSouls 👋🎇
+## I'm Ivan Schlagheck, Fullstack Developer and Musician 🎻 :)
 
 - 🔭 I’m currently working on gigmee.org sharopening the last details of my final project.
 - 🌱 I’m currently learning JSE6, React, Redux, Node and more things. We all learn something new everyday.
