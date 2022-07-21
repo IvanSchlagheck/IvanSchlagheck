@@ -9,11 +9,7 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working as a Teacher Assistant in LeWagon
-  
-- 🌱 I’m currently learning React and JavaScript
-  
-- 👯 I’m looking to collaborate on Proyects
+- 🔭 I’m currently working as a BackEnd Developer at Trendence Institut GmbH and as a Teacher at LeWagon Berlin GmbH
   
 - 💬 Ask me about RoR, Javascript, React, Ruby, 
   
